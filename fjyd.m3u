@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 #改自Kimentanm的aptv项目中的同名文件
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
