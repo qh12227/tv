@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
-#改自Kimentanm的aptv项目中的同名文件
+#EXTM3U x-tvg-url="https://epg.v1.mk/fly.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
@@ -111,29 +110,29 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225856/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227156/index.m3u8
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" group-title="卫视",海峡卫视
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/福建海峡.png" group-title="卫视",海峡卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" group-title="福建",福建综合
+#EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="福建",福建综合
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227149/index.m3u8
-#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" group-title="福建",福建新闻
+#EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://epg.112114.xyz/logo/福建新闻.png" group-title="福建",福建新闻
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227180/index.m3u8
-#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" group-title="福建",福建电视剧
+#EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://epg.112114.xyz/logo/福建电视剧.png" group-title="福建",福建电视剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227079/index.m3u8
 #EXTINF:-1 tvg-id="福建乡村" tvg-name="福建乡村" group-title="福建",福建乡村
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227153/index.m3u8
-#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" group-title="福建",福建经济
+#EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://epg.112114.xyz/logo/福建经济.png" group-title="福建",福建经济
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227184/index.m3u8
-#EXTINF:-1 tvg-id="福建体育" tvg-name="福建体育" group-title="福建",福建体育
+#EXTINF:-1 tvg-id="福建体育" tvg-name="福建体育" tvg-logo="https://epg.112114.xyz/logo/福建体育.png" group-title="福建",福建体育
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
-#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" group-title="福建",福建旅游
+#EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://epg.112114.xyz/logo/福建旅游.png" group-title="福建",福建旅游
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" group-title="福建",福建教育
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227202/index.m3u8
-#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" group-title="福建",福建少儿
+#EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://epg.112114.xyz/logo/福建少儿.png" group-title="福建",福建少儿
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227194/index.m3u8
 #EXTINF:-1 tvg-id="厦门1套" tvg-name="厦门1套" group-title="其他",厦门1套
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/index.m3u8
