@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/fjyd.m3u
+#改自Kimentanm的aptv项目中的同名文件
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
