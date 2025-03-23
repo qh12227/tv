@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTM3U url-logos="https://live.fanmingming.cn/tv/{name}.png"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226908/index.m3u8
@@ -10,6 +11,8 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227445/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视",CCTV5
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227283/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV5+
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视",CCTV6
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视",CCTV7
@@ -34,8 +37,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227125/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视",CCTV17
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="央视",CCTV5+
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227162/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视",北京卫视
