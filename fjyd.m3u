@@ -162,8 +162,12 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/index.m3u8
 #EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://live.712227.xyz/png/NEWTV精品萌宠.png" group-title="NewTV",NewTV精品萌宠
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227183/index.m3u8
-#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-name="NewTV哒啵电竞" tvg-logo="https://live.712227.xyz/png/哒啵电竞.png" group-title="NewTV",NewTV哒啵电竞
+#EXTINF:-1 tvg-id="NewTV哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://live.712227.xyz/png/哒啵电竞.png" group-title="NewTV",哒啵电竞
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227252/index.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.712227.xyz/png/哒啵赛事.png" group-title="NewTV",哒啵赛事
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.712227.xyz/png/黑莓电影.png" group-title="NewTV",黑莓电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.712227.xyz/png/黑莓动画.png" group-title="NewTV",黑莓动画
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227303/index.m3u8
 #EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://live.712227.xyz/png/NEWTV古装剧场.png" group-title="NewTV",古装剧场
@@ -172,8 +176,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227307/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://live.712227.xyz/png/NEWTV精品大剧.png" group-title="NewTV",精品大剧
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227315/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.712227.xyz/png/黑莓电影.png" group-title="NewTV",黑莓电影
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227448/index.m3u8
 #EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://live.712227.xyz/png/NEWTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227457/index.m3u8
 #EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="https://live.712227.xyz/png/NEWTV精品纪录.png" group-title="NewTV",精品纪录
@@ -194,8 +196,6 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227327/index.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227469/index.m3u8
 #EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://live.712227.xyz/png/NEWTV中国功夫.png" group-title="NewTV",中国功夫
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227473/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://live.712227.xyz/png/NEWTV哒啵赛事.png" group-title="NewTV",哒啵赛事
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
 #EXTINF:-1 tvg-id="热播精选" tvg-name="热播精选" tvg-logo="https://live.712227.xyz/png/NEWTV热播精选.png" group-title="NewTV",热播精选
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227478/index.m3u8
 #EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="https://live.712227.xyz/png/NEWTV爱情喜剧.png" group-title="Newtv",爱情喜剧
